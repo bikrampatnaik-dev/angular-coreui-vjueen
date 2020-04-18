@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "styles": [
+        "scss/style.scss"
+      ],
+      "scripts": [
+        "~chart.js/dist/Chart.bundle.min.js",
+        "~chart.js/dist/Chart.min.js"
+      ]
+    }
+  ]
+}
